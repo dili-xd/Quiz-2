@@ -1,0 +1,72 @@
+{
+  "usuarios": [
+    {
+      "id": "63e2",
+      "nombre": "Dili",
+      "clave": "1234"
+    },
+    {
+      "id": "38f4",
+      "nombre": "",
+      "clave": "jkk"
+    }
+  ],
+  "tareas": [
+    {
+      "id": "db95",
+      "tareaTexto": "Hoa",
+      "idUsuario": "63e2",
+      "estado": false,
+      "nombreUsuario": "Dili"
+    },
+    {
+      "id": "5c5e",
+      "tareaTexto": "udkud",
+      "idUsuario": "63e2",
+      "estado": false,
+      "nombreUsuario": "Dili"
+    },
+    {
+      "id": "96fd",
+      "tareaTexto": "udkud",
+      "idUsuario": "63e2",
+      "estado": false,
+      "nombreUsuario": "Dili"
+    },
+    {
+      "id": "ab0b",
+      "tareaTexto": "udkud",
+      "idUsuario": "63e2",
+      "estado": false,
+      "nombreUsuario": "Dili"
+    },
+    {
+      "id": "8f18",
+      "tareaTexto": "udkud",
+      "idUsuario": "63e2",
+      "estado": false,
+      "nombreUsuario": "Dili"
+    },
+    {
+      "id": "cfbb",
+      "tareaTexto": "tu mama",
+      "idUsuario": "63e2",
+      "estado": false,
+      "nombreUsuario": "Dili"
+    },
+    {
+      "id": "0a35",
+      "tareaTexto": "tu mama",
+      "idUsuario": "63e2",
+      "estado": false,
+      "nombreUsuario": "Dili"
+    },
+    {
+      "id": "50e7",
+      "tareaTexto": "mamar toto",
+      "idUsuario": "63e2",
+      "estado": false,
+      "nombreUsuario": "Dili"
+    }
+  ]
+}
