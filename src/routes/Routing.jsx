@@ -7,7 +7,6 @@ function Routing(){
     <Router>
         <Routes>
             <Route path="/login" element={<Login/>}/>
-            <Route path="/" element={<Login/>}/>
             <Route path="/registro" element={<Registro/>}/>
             <Route path="/home" element={<Home/>}/>
             
