@@ -44,6 +44,131 @@
       "id": "3d32",
       "nombre": "dilii",
       "clave": "2.0"
+    },
+    {
+      "id": "7cf1",
+      "nombre": "p3n3",
+      "clave": "g0rd0"
+    },
+    {
+      "id": "a36f",
+      "nombre": "p3n3",
+      "clave": "g0rd0"
+    },
+    {
+      "id": "eb96",
+      "nombre": "p3n3",
+      "clave": "g0rd0"
+    },
+    {
+      "id": "ac3c",
+      "nombre": "p3n3",
+      "clave": "g0rd0"
+    },
+    {
+      "id": "5a44",
+      "nombre": "p3n3",
+      "clave": "g0rd0"
+    },
+    {
+      "id": "d874",
+      "nombre": "p3n3",
+      "clave": "g0rd0"
+    },
+    {
+      "id": "063d",
+      "nombre": "p3n3",
+      "clave": "g0rd0"
+    },
+    {
+      "id": "5b81",
+      "nombre": "p3n3",
+      "clave": "g0rd0"
+    },
+    {
+      "id": "8101",
+      "nombre": "p3n3",
+      "clave": "g0rd0"
+    },
+    {
+      "id": "e8fb",
+      "nombre": "p3n3",
+      "clave": "g0rd0"
+    },
+    {
+      "id": "d004",
+      "nombre": "p3n3",
+      "clave": "g0rd0"
+    },
+    {
+      "id": "4084",
+      "nombre": "p3n3",
+      "clave": "g0rd0"
+    },
+    {
+      "id": "d0fb",
+      "nombre": "p3n3",
+      "clave": "g0rd0"
+    },
+    {
+      "id": "5077",
+      "nombre": "p3n3",
+      "clave": "g0rd0"
+    },
+    {
+      "id": "00e6",
+      "nombre": "p3n3",
+      "clave": "g0rd0"
+    },
+    {
+      "id": "bee8",
+      "nombre": "p3n3",
+      "clave": "g0rd0"
+    },
+    {
+      "id": "80de",
+      "nombre": "p3n3",
+      "clave": "g0rd0"
+    },
+    {
+      "id": "89d6",
+      "nombre": "p3n3",
+      "clave": "g0rd0"
+    },
+    {
+      "id": "22c8",
+      "nombre": "p3n3",
+      "clave": "g0rd0"
+    },
+    {
+      "id": "11cc",
+      "nombre": "p3n3",
+      "clave": "g0rd0"
+    },
+    {
+      "id": "5682",
+      "nombre": "p3n3",
+      "clave": "g0rd0"
+    },
+    {
+      "id": "ad97",
+      "nombre": "p3n3",
+      "clave": "g0rd0"
+    },
+    {
+      "id": "8559",
+      "nombre": "p3n3",
+      "clave": "g0rd0"
+    },
+    {
+      "id": "c55f",
+      "nombre": "p3n3",
+      "clave": "g0rd0"
+    },
+    {
+      "id": "fe7b",
+      "nombre": "p3n3",
+      "clave": "g0rd0"
     }
   ],
   "tareas": [
@@ -83,18 +208,39 @@
       "nombreUsuario": "Dili"
     },
     {
-      "id": "1a98",
-      "tareaTexto": "tarea editada",
-      "idUsuario": "aaf7",
+      "id": "832f",
+      "tareaTexto": "p3n3",
+      "idUsuario": "7cf1",
       "estado": false,
-      "nombreUsuario": "dilii"
+      "nombreUsuario": "p3n3"
     },
     {
-      "id": "ed28",
-      "tareaTexto": "",
-      "idUsuario": "aaf7",
+      "id": "9fe9",
+      "tareaTexto": "g0rd0",
+      "idUsuario": "7cf1",
       "estado": false,
-      "nombreUsuario": "dilii"
+      "nombreUsuario": "p3n3"
+    },
+    {
+      "id": "5a6a",
+      "tareaTexto": "⊙﹏⊙∥",
+      "idUsuario": "7cf1",
+      "estado": false,
+      "nombreUsuario": "p3n3"
+    },
+    {
+      "id": "26d9",
+      "tareaTexto": ":0",
+      "idUsuario": "7cf1",
+      "estado": false,
+      "nombreUsuario": "p3n3"
+    },
+    {
+      "id": "681b",
+      "tareaTexto": "dl quiere mmr p3n3",
+      "idUsuario": "7cf1",
+      "estado": false,
+      "nombreUsuario": "p3n3"
     }
   ]
 }
